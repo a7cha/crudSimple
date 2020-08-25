@@ -1,7 +1,7 @@
 <?php
 $server = "localhost";
 $user = "root";
-$password = "";
+$password = "asusa442u";
 $nama_database = "arkademy";
 
 $db = mysqli_connect($server, $user, $password, $nama_database);
